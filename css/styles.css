@@ -60,14 +60,14 @@ body {
 
 
 }
-/* #start{
+#start{
     padding: 5px;
     top: 45px;
     margin-left:45%;
     margin-top:20px;
-    width: 50%
-    height: 50%;
-} */
+    width: 20%
+    
+}
 #player1-roll{
     margin: 10px;
 }
