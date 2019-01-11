@@ -49,10 +49,16 @@ body {
 *** PLAYERS
 **********************************************/
 .container{
-    background-color: thistle;
+    background-color: whitesmoke;
 }
 #new-game{
-    background-color: dodgerblue;
+    background-color: aquamarine;
+        top: 45px;
+        margin-left:45%;
+        margin-top:20px;
+
+
+
 }
 #player1-roll{
     margin: 10px;
@@ -66,3 +72,21 @@ body {
 #player2-hold{
     margin: 10px;
 }
+
+.player-0-panel{
+
+    width: 50%;
+    float: left;
+    height: 600px;
+    padding: 100px;
+  background-color:rgb(240, 235, 235);
+
+
+}
+.player-1-panel {
+    width: 50%;
+    float: left;
+    height: 600px;
+    padding: 100px;
+}
+
