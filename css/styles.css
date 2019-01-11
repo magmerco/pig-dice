@@ -51,3 +51,18 @@ body {
 .container{
     background-color: thistle;
 }
+#new-game{
+    background-color: dodgerblue;
+}
+#player1-roll{
+    margin: 10px;
+}
+#player1-hold{
+    margin: 10px;
+}
+#player2-roll{
+    margin: 21px;
+}
+#player2-hold{
+    margin: 10px;
+}
