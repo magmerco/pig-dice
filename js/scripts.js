@@ -54,6 +54,7 @@ Player.prototype.newGame = function () {
   this.tempscore = 0;
   this.totalscore = 0;
   this.playerName ="";
+<<<<<<< HEAD
 }
 
 var clearValues = function(){
@@ -61,6 +62,15 @@ var clearValues = function(){
   $(".player2Name").val("");
 }
 
+=======
+}
+
+var clearValues = function(){
+  $(".player1Name").val("");
+  $(".player2Name").val("");
+}
+
+>>>>>>> 3e0aabedc6f8ee3362e3f934c3ac6c6a0932c45b
 // User Interface
 $(document).ready(function() {
 

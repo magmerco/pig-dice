@@ -1,5 +1,5 @@
 # _Pig Dice Game_
-
+Friday 11th January 2019
 #### By _Magali Zaninka_
 
 ## Description
@@ -23,7 +23,11 @@ _This web application allows two players to play a game of Pig Dice._
 * _Open a HTML file_
 * _Open web browser of choice_
 * _https://github.com/magmerco/pig-dice.git_
+<<<<<<< HEAD
 * https://github.com/magmerco/pig-dice/index.html 
+=======
+* _https://magmerco.github.io/pig-dice_
+>>>>>>> 3e0aabedc6f8ee3362e3f934c3ac6c6a0932c45b
 
 ## Technologies Used
 
