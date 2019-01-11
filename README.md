@@ -1,5 +1,5 @@
 # _Pig Dice Game_
-
+Friday 11th January 2019
 #### By _Magali Zaninka_
 
 ## Description
