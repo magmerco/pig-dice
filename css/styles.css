@@ -52,7 +52,7 @@ body {
     background-color: whitesmoke;
 }
 #new-game{
-    background-color: aquamarine;
+    background-color: forestgreen;
         top: 45px;
         margin-left:45%;
         margin-top:20px;
@@ -70,12 +70,15 @@ body {
 }
 #player1-roll{
     margin: 10px;
+    background-color: forestgreen;
 }
 #player1-hold{
     margin: 10px;
+    background-color: darkolivegreen;
 }
 #player2-roll{
     margin: 21px;
+    background-color: forestgreen;
 }
 #player2-hold{
     margin: 10px;
